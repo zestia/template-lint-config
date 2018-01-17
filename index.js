@@ -9,7 +9,7 @@ module.exports = {
     recommended: {
       extends: 'recommended',
       rules: {
-        'attribute-indentation': true,
+        // 'attribute-indentation': true,
         'bare-strings': false,
         'block-indentation': true,
         'deprecated-each-syntax': true,

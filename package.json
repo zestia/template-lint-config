@@ -1,6 +1,6 @@
 {
   "name": "@zestia/ember-template-lint-plugin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Ember template lint config",
   "main": "index.js",
   "scripts": {
@@ -19,8 +19,5 @@
   "bugs": {
     "url": "https://github.com/zestia/ember-template-lint-plugin/issues"
   },
-  "homepage": "https://github.com/zestia/ember-template-lint-plugin",
-  "peerDependencies": {
-    "ember-template-lint": ">= 0.8"
-  }
+  "homepage": "https://github.com/zestia/ember-template-lint-plugin"
 }
