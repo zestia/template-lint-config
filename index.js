@@ -12,7 +12,6 @@ module.exports = {
         // 'attribute-indentation': true,
         'bare-strings': false,
         'block-indentation': true,
-        'deprecated-each-syntax': true,
         'deprecated-inline-view-helper': true,
         'deprecated-render-helper': true,
         'eol-last': 'never',
