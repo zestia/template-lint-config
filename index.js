@@ -34,13 +34,13 @@ module.exports = {
         'no-nested-interactive': true,
         'no-trailing-spaces': true,
         'no-triple-curlies': true,
-        'no-unused-block-params': true
+        'no-unused-block-params': true,
         'quotes': 'double',
         'self-closing-void-elements': true,
         'simple-unless': true,
         'style-concatenation': true,
         'table-groups': true,
-        'template-length': false,
+        'template-length': false
       }
     }
   }
