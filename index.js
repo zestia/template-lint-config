@@ -9,7 +9,10 @@ module.exports = {
     recommended: {
       extends: 'recommended',
       rules: {
-        // 'attribute-indentation': true,
+        // 'attribute-indentation': {
+        //   'open-invocation-max-len': 100,
+        //   'process-elements': true
+        // },
         'block-indentation': true,
         'deprecated-inline-view-helper': true,
         'deprecated-render-helper': true,
@@ -19,16 +22,17 @@ module.exports = {
         'link-rel-noopener': 'strict',
         'no-bare-strings': false,
         'invocable-blacklist': [],
+        'no-implicit-this': true,
         'no-debugger': true,
         'no-duplicate-attributes': true,
         'no-input-block': true,
         'no-input-tagname': true,
         'no-unbound': true,
         'no-outlet-outside-routes': true,
-        'no-trailing-spaces': true,
         'no-html-comments': true,
         'no-partial': true,
         'no-inline-styles': true,
+        'no-quoteless-attributes': true,
         'no-invalid-interactive': true,
         'no-log': true,
         'no-nested-interactive': true,
