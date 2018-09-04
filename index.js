@@ -1,10 +1,6 @@
 module.exports = {
   name: 'zestia',
 
-  rules: {
-
-  },
-
   configurations: {
     recommended: {
       extends: 'recommended',
@@ -23,8 +19,7 @@ module.exports = {
         'link-rel-noopener': 'strict',
         'no-bare-strings': false,
         'invocable-blacklist': [],
-        'no-implicit-this': false,
-        // 'no-implicit-this': true,
+        'no-implicit-this': true,
         'no-debugger': true,
         'no-duplicate-attributes': true,
         'no-input-block': true,
