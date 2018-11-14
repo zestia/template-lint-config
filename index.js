@@ -7,8 +7,11 @@ module.exports = {
       rules: {
         'attribute-indentation': false,
         // 'attribute-indentation': {
+        //   'indentation': 2,
         //   'open-invocation-max-len': 100,
-        //   'process-elements': true
+        //   'process-elements': false,
+        //   'element-open-end': 'last-attribute',
+        //   'mustache-open-end': 'last-attribute'
         // },
         'block-indentation': true,
         'deprecated-inline-view-helper': true,
