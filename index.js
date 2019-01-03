@@ -7,7 +7,8 @@ module.exports = {
       rules: {
         'attribute-indentation': false,
         'img-alt-attributes': false,
-        'link-rel-noopener': 'strict'
+        'link-rel-noopener': 'strict',
+        'no-implicit-this': true
       }
     }
   }
