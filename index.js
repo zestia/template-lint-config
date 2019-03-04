@@ -8,7 +8,9 @@ module.exports = {
         'attribute-indentation': false,
         'img-alt-attributes': false,
         'link-rel-noopener': 'strict',
-        'no-implicit-this': true
+        'no-implicit-this': true,
+        'no-negated-condition': true,
+        'no-extra-mut-helper-argument': true
       }
     }
   }
