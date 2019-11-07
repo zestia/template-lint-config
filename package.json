@@ -10,9 +10,6 @@
     "type": "git",
     "url": "git+https://github.com/zestia/ember-template-lint-plugin.git"
   },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
-  },
   "keywords": [
     "ember-template-lint",
     "ember-template-lint-plugin"
