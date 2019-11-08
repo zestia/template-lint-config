@@ -12,10 +12,9 @@ npm install --save @zestia/ember-template-lint-plugin
 
 ## Setup
 
-1. Create the following file:
+1. Create the following file `.template-lintrc.js`
 
     ```javascript
-    // .template-lintrc.js
     module.exports = {
       plugins: ['@zestia/ember-template-lint-plugin'],
       extends: 'zestia:recommended'
