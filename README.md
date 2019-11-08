@@ -12,7 +12,7 @@ npm install --save @zestia/ember-template-lint-plugin
 
 ## Setup
 
-1. Create the following file `.template-lintrc.js`
+1. Create the following file `.template-lintrc.js
 
     ```javascript
     module.exports = {
@@ -33,9 +33,7 @@ npm install --save @zestia/ember-template-lint-plugin
 npm run lint:hbs
 ```
 
-<hr>
-
-Related repos:
+## Related repos:
 
 * https://github.com/zestia/ember-template-lint-plugin
 * https://github.com/zestia/stylelint-config
