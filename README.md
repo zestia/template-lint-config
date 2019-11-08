@@ -1,11 +1,36 @@
 # @zestia/ember-template-lint-plugin
 
-```javascript
-// .template-lintrc.js
-module.exports = {
-  plugins: ['@zestia/ember-template-lint-plugin'],
-  extends: 'zestia:recommended'
-};
+This package defines a our template linting rules (`*.hbs`) for Ember Apps and Addons.
+
+The rules extend the `recommended` rules provided by Ember, with a few extra ones specific to Zestia.
+
+## Installation
+
+```
+npm install --save @zestia/ember-template-lint-plugin
+```
+
+## Setup
+
+1. Create the following file:
+
+  ```javascript
+  // .template-lintrc.js
+  module.exports = {
+    plugins: ['@zestia/ember-template-lint-plugin'],
+    extends: 'zestia:recommended'
+  };
+
+2. Add the following to `scripts` in `package.json`
+
+  ```
+  "lint:hbs": "ember-template-lint ."
+  ```
+
+## Running
+
+```
+npm run lint:hbs
 ```
 
 <hr>
