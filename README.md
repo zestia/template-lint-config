@@ -20,6 +20,7 @@ npm install --save @zestia/ember-template-lint-plugin
     plugins: ['@zestia/ember-template-lint-plugin'],
     extends: 'zestia:recommended'
   };
+  ```
 
 2. Add the following to `scripts` in `package.json`
 
