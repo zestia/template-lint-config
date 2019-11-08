@@ -1,6 +1,6 @@
 # @zestia/ember-template-lint-plugin
 
-This package defines a our template linting rules (`*.hbs`) for Ember Apps and Addons.
+This package provides our template linting rules for Ember Apps and Addons.
 
 The rules extend the `recommended` rules provided by Ember, with a few extra ones specific to Zestia.
 
