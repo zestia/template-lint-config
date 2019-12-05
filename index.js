@@ -19,7 +19,7 @@ module.exports = {
         'no-obsolete-elements': true,
         'no-positive-tabindex': true,
         'no-trailing-spaces': true,
-        // 'require-button-type': true
+        'require-button-type': true
       }
     }
   }
