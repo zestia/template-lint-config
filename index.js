@@ -10,6 +10,7 @@ module.exports = {
         'link-href-attributes': true,
         'link-rel-noopener': 'strict',
         'no-abstract-roles': true,
+        'no-action': true,
         'no-action-modifiers': true,
         'no-args-paths': true,
         'no-element-event-actions': true,
