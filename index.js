@@ -10,8 +10,8 @@ module.exports = {
         'link-href-attributes': true,
         'link-rel-noopener': 'strict',
         'no-abstract-roles': true,
-        'no-action': true,
         'no-action-modifiers': true,
+        'no-action': true,
         'no-args-paths': true,
         'no-element-event-actions': true,
         'no-extra-mut-helper-argument': true,
@@ -20,7 +20,8 @@ module.exports = {
         'no-obsolete-elements': true,
         'no-positive-tabindex': true,
         'no-trailing-spaces': true,
-        'require-button-type': true
+        'require-button-type': true,
+        'self-closing-void-elements': false
       }
     }
   }
