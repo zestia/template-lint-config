@@ -20,6 +20,7 @@ module.exports = {
         'no-obsolete-elements': true,
         'no-positive-tabindex': true,
         'no-trailing-spaces': true,
+        'no-yield-only': true,
         'require-button-type': true
       }
     }
