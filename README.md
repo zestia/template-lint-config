@@ -7,7 +7,7 @@ The rules extend the `recommended` rules provided by Ember, with a few extra one
 ## Installation
 
 ```
-npm install --save @zestia/ember-template-lint-plugin
+npm install --save-dev @zestia/ember-template-lint-plugin
 ```
 
 ## Setup
