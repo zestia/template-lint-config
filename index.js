@@ -6,7 +6,6 @@ module.exports = {
       extends: 'recommended',
       rules: {
         'eol-last': 'never',
-        'img-alt-attributes': false,
         'link-href-attributes': true,
         'link-rel-noopener': 'strict',
         'no-abstract-roles': true,
@@ -22,6 +21,7 @@ module.exports = {
         'no-trailing-spaces': true,
         'no-yield-only': true,
         'require-button-type': true,
+        'require-valid-alt-text': false,
         'self-closing-void-elements': false
       }
     }

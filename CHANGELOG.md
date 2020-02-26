@@ -1,5 +1,9 @@
 # Changelog
 
+## 2.0.9
+
+- Fix deprecated rule `img-alt-attributes`
+
 ## 2.0.8
 
 - Adds `no-yield-only` rule
