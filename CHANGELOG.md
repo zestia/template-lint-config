@@ -1,5 +1,11 @@
 # Changelog
 
+## 3.0.0
+
+- Enable octane ruleset
+- Remove rules that are now part of the recommended ruleset.
+- Upgrade deps
+
 ## 2.0.9
 
 - Fix deprecated rule `img-alt-attributes`
