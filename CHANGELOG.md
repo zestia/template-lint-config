@@ -1,10 +1,14 @@
 # Changelog
 
-# 3.0.2
+## 3.0.3
+
+- Remove `eol-last` because it conflicts with prettier 2x https://prettier.io/blog/2020/03/21/2.0.0.html
+
+## 3.0.2
 
 - Remove `self-closing-void-elements`, accidently re-added in 3.0.0 (see 2.0.7)
 
-# 3.0.1
+## 3.0.1
 
 - Upgrade dependencies
 
