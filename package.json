@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/zestia/ember-template-lint-plugin",
   "devDependencies": {
-    "release-it": "^12.6.2"
+    "release-it": "^13.5.1"
   }
 }
