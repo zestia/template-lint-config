@@ -2,7 +2,9 @@
 
 ## 3.0.4
 
+- Upgrade dependencies
 - Add prettier config
+- Add eslint config
 
 ## 3.0.3
 

@@ -14,18 +14,18 @@ npm install --save-dev @zestia/ember-template-lint-plugin
 
 1. Create the following file `.template-lintrc.js`
 
-    ```javascript
-    module.exports = {
-      plugins: ['@zestia/ember-template-lint-plugin'],
-      extends: 'zestia:recommended'
-    };
-    ```
+   ```javascript
+   module.exports = {
+     plugins: ['@zestia/ember-template-lint-plugin'],
+     extends: 'zestia:recommended'
+   };
+   ```
 
 2. Add the following to `scripts` in `package.json`
 
-    ```
-    "lint:hbs": "ember-template-lint ."
-    ```
+   ```
+   "lint:hbs": "ember-template-lint ."
+   ```
 
 ## Running
 
@@ -35,7 +35,7 @@ npm run lint:hbs
 
 ## Related repos:
 
-* https://github.com/zestia/ember-template-lint-plugin
-* https://github.com/zestia/stylelint-config
-* https://github.com/zestia/eslint-config
-* https://github.com/zestia/prettier-config
+- https://github.com/zestia/ember-template-lint-plugin
+- https://github.com/zestia/stylelint-config
+- https://github.com/zestia/eslint-config
+- https://github.com/zestia/prettier-config
