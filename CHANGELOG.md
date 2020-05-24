@@ -1,5 +1,9 @@
 # Changelog
 
+## 3.0.4
+
+- Add prettier config
+
 ## 3.0.3
 
 - Remove `eol-last` because it conflicts with prettier 2x https://prettier.io/blog/2020/03/21/2.0.0.html
