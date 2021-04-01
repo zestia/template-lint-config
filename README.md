@@ -2,7 +2,7 @@
 
 This package provides linting rules for HTML templates
 
-The rules extend the `recommended` rules provided by `ember-template-lint`, with a few extra ones specific to Zestia.
+The rules are based on community standards, with a few extra ones specific to Zestia.
 
 ## Installation
 
