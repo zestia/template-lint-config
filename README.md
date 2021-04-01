@@ -1,4 +1,4 @@
-# @zestia/ember-template-lint-plugin
+# @zestia/template-lint-config
 
 This package provides our template linting rules for Ember Apps and Addons.
 
@@ -7,7 +7,7 @@ The rules extend the `recommended` rules provided by Ember, with a few extra one
 ## Installation
 
 ```
-npm install --save-dev @zestia/ember-template-lint-plugin
+npm install --save-dev @zestia/template-lint-config
 ```
 
 ## Setup
@@ -16,7 +16,7 @@ npm install --save-dev @zestia/ember-template-lint-plugin
 
    ```javascript
    module.exports = {
-     plugins: ['@zestia/ember-template-lint-plugin'],
+     plugins: ['@zestia/template-lint-config'],
      extends: 'zestia:recommended'
    };
    ```
@@ -35,7 +35,7 @@ npm run lint:hbs
 
 ## Related repos:
 
-- https://github.com/zestia/ember-template-lint-plugin
+- https://github.com/zestia/template-lint-config
 - https://github.com/zestia/stylelint-config
 - https://github.com/zestia/eslint-config
 - https://github.com/zestia/prettier-config

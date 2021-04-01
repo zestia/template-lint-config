@@ -1,7 +1,7 @@
 {
-  "name": "@zestia/ember-template-lint-plugin",
+  "name": "@zestia/template-lint-config",
   "version": "3.0.11",
-  "description": "Ember template lint config",
+  "description": "Template lint config",
   "main": "index.js",
   "scripts": {
     "test": "npm run lint",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zestia/ember-template-lint-plugin.git"
+    "url": "git+https://github.com/zestia/template-lint-config.git"
   },
   "keywords": [
     "ember-template-lint",
@@ -20,9 +20,9 @@
   "author": "Zestia",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/zestia/ember-template-lint-plugin/issues"
+    "url": "https://github.com/zestia/-template-lint-config/issues"
   },
-  "homepage": "https://github.com/zestia/ember-template-lint-plugin",
+  "homepage": "https://github.com/zestia/template-lint-config",
   "devDependencies": {
     "@zestia/eslint-config": "^4.0.3",
     "@zestia/prettier-config": "^1.0.4",
