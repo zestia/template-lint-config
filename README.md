@@ -1,6 +1,6 @@
 # @zestia/template-lint-config
 
-This package provides linting rules for HTML templates
+This package provides linting rules for HTML templates.
 
 The rules are based on community standards, with a few extra ones specific to Zestia.
 
