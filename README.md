@@ -1,8 +1,8 @@
 # @zestia/template-lint-config
 
-This package provides our template linting rules for Ember Apps and Addons.
+This package provides linting rules HTML templates
 
-The rules extend the `recommended` rules provided by Ember, with a few extra ones specific to Zestia.
+The rules extend the `recommended` rules provided by `ember-template-lint`, with a few extra ones specific to Zestia.
 
 ## Installation
 
