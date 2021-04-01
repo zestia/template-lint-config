@@ -1,5 +1,9 @@
 # Changelog
 
+## 4.0.0
+
+- Rename project
+
 ## 3.0.11
 
 - Upgrade dependencies
