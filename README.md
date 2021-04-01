@@ -1,6 +1,6 @@
 # @zestia/template-lint-config
 
-This package provides linting rules HTML templates
+This package provides linting rules for HTML templates
 
 The rules extend the `recommended` rules provided by `ember-template-lint`, with a few extra ones specific to Zestia.
 
