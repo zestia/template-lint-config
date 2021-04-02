@@ -33,7 +33,7 @@ npm install --save-dev @zestia/template-lint-config
 npm run lint:hbs
 ```
 
-## Related repos:
+## Related repos
 
 - https://github.com/zestia/template-lint-config
 - https://github.com/zestia/stylelint-config
