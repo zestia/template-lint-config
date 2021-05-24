@@ -1,5 +1,9 @@
 # Changelog
 
+## 4.1.2
+
+- Remove nested configuration for now, as we only have one configuration
+
 ## 4.1.1
 
 - Remove `octane` config, it's the same as `recommended` now

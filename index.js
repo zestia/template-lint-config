@@ -1,20 +1,11 @@
 module.exports = {
-  name: 'zestia',
+  plugins: ['ember-template-lint-plugin-prettier'],
 
-  configurations: {
-    recommended: {
-      plugins: ['ember-template-lint-plugin-prettier'],
+  extends: ['recommended', 'ember-template-lint-plugin-prettier:recommended'],
 
-      extends: [
-        'recommended',
-        'ember-template-lint-plugin-prettier:recommended'
-      ],
-
-      rules: {
-        'no-element-event-actions': true,
-        'no-trailing-spaces': true,
-        'no-yield-only': true
-      }
-    }
+  rules: {
+    'no-element-event-actions': true,
+    'no-trailing-spaces': true,
+    'no-yield-only': true
   }
 };
