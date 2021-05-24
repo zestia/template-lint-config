@@ -23,6 +23,9 @@
     "url": "https://github.com/zestia/-template-lint-config/issues"
   },
   "homepage": "https://github.com/zestia/template-lint-config",
+  "dependencies": {
+    "ember-template-lint-plugin-prettier": "^2.0.0"
+  },
   "devDependencies": {
     "@zestia/eslint-config": "^4.0.3",
     "@zestia/prettier-config": "^1.0.4",

@@ -1,5 +1,9 @@
 # Changelog
 
+## 4.1.0
+
+- Add `ember-template-lint-plugin-prettier`
+
 ## 4.0.0
 
 - Rename project
