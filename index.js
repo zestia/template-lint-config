@@ -7,7 +7,6 @@ module.exports = {
 
       extends: [
         'recommended',
-        'octane',
         'ember-template-lint-plugin-prettier:recommended'
       ],
 

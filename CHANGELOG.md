@@ -1,5 +1,9 @@
 # Changelog
 
+## 4.1.1
+
+- Remove `octane` config, it's the same as `recommended` now
+
 ## 4.1.0
 
 - Add `ember-template-lint-plugin-prettier`
