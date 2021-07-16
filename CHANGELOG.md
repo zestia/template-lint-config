@@ -1,5 +1,9 @@
 # Changelog
 
+## 4.1.3
+
+- Upgrade dependencies
+
 ## 4.1.2
 
 - Remove nested configuration for now, as we only have one configuration
