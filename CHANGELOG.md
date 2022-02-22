@@ -1,9 +1,5 @@
 # Changelog
 
-## 4.1.8
-
-- Make `ember-template-lint` peer dep less specific
-
 ## 4.1.7
 
 - Add `ember-template-lint` as peer dep
