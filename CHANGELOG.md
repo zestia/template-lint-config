@@ -1,5 +1,9 @@
 # Changelog
 
+## 4.1.7
+
+- Add `ember-template-lint` as peer dep
+
 ## 4.1.6
 
 - Move `ember-template-lint-plugin-prettier` to peer deps

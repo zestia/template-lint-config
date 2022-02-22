@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/zestia/template-lint-config",
   "peerDependencies": {
+    "ember-template-lint": "^4.1.0",
     "ember-template-lint-plugin-prettier": "^4.0.0"
   },
   "devDependencies": {
