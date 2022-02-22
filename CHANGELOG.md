@@ -1,5 +1,9 @@
 # Changelog
 
+## 4.1.6
+
+- Move `ember-template-lint-plugin-prettier` to peer deps
+
 ## 4.1.5
 
 - Upgrade dependencies

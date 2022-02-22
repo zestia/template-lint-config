@@ -23,7 +23,7 @@
     "url": "https://github.com/zestia/-template-lint-config/issues"
   },
   "homepage": "https://github.com/zestia/template-lint-config",
-  "dependencies": {
+  "peerDependencies": {
     "ember-template-lint-plugin-prettier": "^4.0.0"
   },
   "devDependencies": {
