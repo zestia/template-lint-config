@@ -26,8 +26,6 @@
   "devDependencies": {
     "@zestia/eslint-config": "^4.0.9-6",
     "@zestia/prettier-config": "^1.0.8-0",
-    "eslint": "^7.3.2",
-    "prettier": "^2.5.1",
     "release-it": "^14.12.5"
   },
   "peerDependencies": {
