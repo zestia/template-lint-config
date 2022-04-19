@@ -1,5 +1,9 @@
 # Changelog
 
+## 4.1.9
+
+- Loosen requirements of ember-template-lint
+
 ## 4.1.8
 
 - Reduce specificity of `ember-template-lint` peer dep
