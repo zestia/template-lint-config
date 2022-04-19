@@ -1,5 +1,9 @@
 # Changelog
 
+## 4.1.10
+
+- Slightly tighten requirements of ember-template-lint
+
 ## 4.1.9
 
 - Loosen requirements of ember-template-lint
