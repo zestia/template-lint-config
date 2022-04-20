@@ -29,7 +29,7 @@
     "release-it": "^14.14.2"
   },
   "peerDependencies": {
-    "ember-template-lint": "3.x || 4.x",
-    "ember-template-lint-plugin-prettier": "3.x || 4.x"
+    "ember-template-lint": "^3.0.0 || ^4.0.0",
+    "ember-template-lint-plugin-prettier": "^3.0.0 || ^4.0.0"
   }
 }

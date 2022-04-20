@@ -1,9 +1,5 @@
 # Changelog
 
-## 4.1.11
-
-- Adjust peer dep requirements of ember-template-lint
-
 ## 4.1.10
 
 - Slightly tighten requirements of ember-template-lint
