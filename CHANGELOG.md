@@ -1,5 +1,9 @@
 # Changelog
 
+## 5.1.0
+
+- Rename plugin
+
 ## 5.0.0
 
 - Convert to a plugin (to solve resolution issues)
