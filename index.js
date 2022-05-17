@@ -1,4 +1,6 @@
 module.exports = {
+  name: '@zestia/template-lint-config',
+
   plugins: ['ember-template-lint-plugin-prettier'],
 
   extends: ['recommended', 'ember-template-lint-plugin-prettier:recommended'],

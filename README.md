@@ -15,7 +15,9 @@ npm install --save-dev @zestia/template-lint-config
 1. Create the following file `.template-lintrc.js`
 
    ```javascript
-   module.exports = require('@zestia/template-lint-config');
+   module.exports = {
+     plugins: ['@zestia/template-lint-config']
+   };
    ```
 
 2. Add the following to `scripts` in `package.json`

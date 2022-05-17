@@ -1,5 +1,9 @@
 # Changelog
 
+## 5.0.0
+
+- Convert to a plugin (to solve resolution issues)
+
 ## 4.1.10
 
 - Slightly tighten requirements of ember-template-lint
