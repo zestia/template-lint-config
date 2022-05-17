@@ -1,5 +1,9 @@
 # Changelog
 
+## 5.3.0
+
+- Adjust peer dependencies for plugins
+
 ## 5.2.0
 
 - Upgrade dependencies
