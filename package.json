@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/zestia/template-lint-config",
   "devDependencies": {
-    "@zestia/eslint-config": "^4.0.10",
+    "@zestia/eslint-config": "^4.0.12",
     "@zestia/prettier-config": "^1.0.8",
     "release-it": "^15.0.0"
   },

@@ -1,5 +1,9 @@
 # Changelog
 
+## 5.2.0
+
+- Upgrade dependencies
+
 ## 5.1.0
 
 - Rename plugin

@@ -16,7 +16,7 @@ npm install --save-dev @zestia/template-lint-config
 
    ```javascript
    module.exports = {
-     plugins: ['zestia'],
+     plugins: ['@zestia/template-lint-config'],
      extends: 'zestia:recommended'
    };
    ```
