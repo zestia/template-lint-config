@@ -1,5 +1,9 @@
 # Changelog
 
+## 6.0.3
+
+- Temporarily disable linting hbs in js [Issue](https://discord.com/channels/480462759797063690/666416704418611233/1052203658445598722)
+
 ## 6.0.2
 
 - Allow capital arguments. [Read](https://github.com/emberjs/ember.js/issues/17377)

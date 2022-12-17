@@ -10,7 +10,15 @@ module.exports = {
       ],
       rules: {
         'no-capital-arguments': 'off'
-      }
+      },
+      overrides: [
+        {
+          files: ['**/*.js'],
+          rules: {
+            prettier: false
+          }
+        }
+      ]
     }
   }
 };
