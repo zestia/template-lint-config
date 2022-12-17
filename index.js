@@ -7,7 +7,10 @@ module.exports = {
       extends: [
         'recommended',
         'ember-template-lint-plugin-prettier:recommended'
-      ]
+      ],
+      rules: {
+        'no-capital-arguments': 'off'
+      }
     }
   }
 };

@@ -1,5 +1,9 @@
 # Changelog
 
+## 6.0.2
+
+- Allow capital arguments. [Read](https://github.com/emberjs/ember.js/issues/17377)
+
 ## 6.0.1
 
 - Use recommended defaults only
