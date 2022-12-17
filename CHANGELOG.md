@@ -1,5 +1,9 @@
 # Changelog
 
+## 6.0.1
+
+- Use recommended defaults only
+
 ## 6.0.0
 
 - Update ember-template-lint to v5
