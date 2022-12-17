@@ -24,12 +24,12 @@
   },
   "homepage": "https://github.com/zestia/template-lint-config",
   "devDependencies": {
-    "@zestia/eslint-config": "^4.0.13",
+    "@zestia/eslint-config": "^4.0.14",
     "@zestia/prettier-config": "^1.0.9",
-    "release-it": "^15.5.0"
+    "release-it": "^15.5.1"
   },
   "peerDependencies": {
-    "ember-template-lint": "^4.0.0",
-    "ember-template-lint-plugin-prettier": "^4.0.0"
+    "ember-template-lint": "^5.0.0",
+    "ember-template-lint-plugin-prettier": "^4.1.0"
   }
 }

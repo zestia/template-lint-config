@@ -1,5 +1,9 @@
 # Changelog
 
+## 6.0.0
+
+- Update ember-template-lint to v5
+
 ## 5.3.1
 
 - Upgrade dependencies
