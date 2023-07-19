@@ -1,5 +1,9 @@
 # Changelog
 
+## 6.0.6
+
+- Update `@zestia` scoped packages
+
 ## 6.0.5
 
 - Re-release of 6.0.4 for testing publishing to GH instead of NPM
