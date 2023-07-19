@@ -1,6 +1,6 @@
 {
   "name": "@zestia/template-lint-config",
-  "version": "6.0.5",
+  "version": "6.0.6",
   "description": "Template lint config",
   "main": "index.js",
   "scripts": {
