@@ -1,5 +1,9 @@
 # Changelog
 
+## 6.0.7
+
+- Update dependencies
+
 ## 6.0.6
 
 - Update `@zestia` scoped packages
