@@ -3,22 +3,10 @@ module.exports = {
 
   configurations: {
     recommended: {
-      plugins: ['ember-template-lint-plugin-prettier'],
-      extends: [
-        'recommended',
-        'ember-template-lint-plugin-prettier:recommended'
-      ],
+      extends: ['recommended'],
       rules: {
         'no-capital-arguments': 'off'
-      },
-      overrides: [
-        {
-          files: ['**/*.js'],
-          rules: {
-            prettier: false
-          }
-        }
-      ]
+      }
     }
   }
 };

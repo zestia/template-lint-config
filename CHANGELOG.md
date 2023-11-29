@@ -1,5 +1,9 @@
 # Changelog
 
+## 6.1.0
+
+- Disconnect prettier from templatelint config
+
 ## 6.0.7
 
 - Update dependencies
