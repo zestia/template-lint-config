@@ -1,5 +1,9 @@
 # Changelog
 
+## 6.2.0
+
+- Bump minimum version of `ember-template-lint`
+
 ## 6.1.0
 
 - Disconnect prettier from templatelint config

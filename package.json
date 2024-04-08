@@ -32,6 +32,6 @@
     "release-it": "^16.3.0"
   },
   "peerDependencies": {
-    "ember-template-lint": "^5.0.0"
+    "ember-template-lint": "^6.0.0"
   }
 }
