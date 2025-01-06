@@ -1,5 +1,9 @@
 # Changelog
 
+## 6.2.1
+
+- Upgrade dependencies
+
 ## 6.2.0
 
 - Bump minimum version of `ember-template-lint`
