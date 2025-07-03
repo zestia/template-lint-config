@@ -1,5 +1,9 @@
 # Changelog
 
+## 6.3.0
+
+- Bump peer dependency
+
 ## 6.2.1
 
 - Upgrade dependencies
